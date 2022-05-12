@@ -30,9 +30,11 @@ sites:
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.svg
-  name: TinyWeatherForecastGermany
+  favicon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png
+  faviconSvg: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.svg
+  name: TinyWeatherForecastGermany - Status
   introTitle: "TinyWeatherForecastGermany - open source weather app for android"
-  introMessage: "**Tiny Weather Forecast Germany** is an open source weather forecast app for android devices. It's using open data provided by Deutscher Wetterdienst (DWD). Maintainer: Pawel Dube (@Starfish)<br>[tinyweatherforecastgermanygroup.gitlab.io/index/index.html](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html)"
+  introMessage: "[**Tiny Weather Forecast Germany**](https://codeberg.org/Starfish/TinyWeatherForecastGermany) is an open source weather forecast app for android devices. It's using open data provided by Deutscher Wetterdienst (DWD).<br>Maintainer: Pawel Dube ([@Starfish](https://codeberg.org/Starfish/))<br>[tinyweatherforecastgermanygroup.gitlab.io/index/index.html](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html)"
   navbar:
     - title: Status
       href: /
