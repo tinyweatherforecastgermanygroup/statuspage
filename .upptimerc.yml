@@ -4,22 +4,40 @@ repo: statuspage
 sites:
   - name: Codeberg
     url: https://codeberg.org
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png
   - name: DWD Open Data Server
     url: https://opendata.dwd.de
   - name: DWD Geoserver
     url: https://maps.dwd.de
+  - name: F-Droid
+    url: https://f-droid.org/
+  - name: index - GitLab Pages
+    url: https://tinyweatherforecastgermanygroup.gitlab.io/index/
+  - name: javadoc - GitLab Pages
+    url: https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/
+  - name: summary webpage - frama.io
+    url: https://tinyweatherforecastgermanygroup.frama.io/
+  - name: TinyWeatherForecastGermanyScan - GitHub Pages
+    url: https://twfgcicdbot.github.io/TinyWeatherForecastGermanyScan/
 
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TinyWeatherForecastGermany
-  introTitle: "TinyWeatherForecastGermany is an open source weather app for android devices."
-  introMessage: Lorem Ipsum
+  introTitle: "TinyWeatherForecastGermany - open source weather app for android"
+  introMessage: "**Tiny Weather Forecast Germany** is an open source weather forecast app for android devices. It's using open data provided by Deutscher Wetterdienst (DWD). Maintainer: Pawel Dube (@Starfish)<br>[tinyweatherforecastgermanygroup.gitlab.io/index/index.html](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html)"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: F-Droid
+      href: https://f-droid.org/packages/de.kaffeemitkoffein.tinyweatherforecastgermany/
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# docs: https://upptime.js.org/docs/configuration
+
