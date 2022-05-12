@@ -7,22 +7,29 @@ sites:
     icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png
   - name: DWD Open Data Server
     url: https://opendata.dwd.de
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/dwd-icon.ico
   - name: DWD Geoserver
     url: https://maps.dwd.de
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/dwd-icon.ico
   - name: F-Droid
     url: https://f-droid.org/
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg
   - name: index - GitLab Pages
     url: https://tinyweatherforecastgermanygroup.gitlab.io/index/
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png
   - name: javadoc - GitLab Pages
     url: https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png
   - name: summary webpage - frama.io
     url: https://tinyweatherforecastgermanygroup.frama.io/
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png
   - name: TinyWeatherForecastGermanyScan - GitHub Pages
     url: https://twfgcicdbot.github.io/TinyWeatherForecastGermanyScan/
+    icon: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png
 
 status-website:
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.svg
   name: TinyWeatherForecastGermany
   introTitle: "TinyWeatherForecastGermany - open source weather app for android"
   introMessage: "**Tiny Weather Forecast Germany** is an open source weather forecast app for android devices. It's using open data provided by Deutscher Wetterdienst (DWD). Maintainer: Pawel Dube (@Starfish)<br>[tinyweatherforecastgermanygroup.gitlab.io/index/index.html](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html)"
@@ -33,6 +40,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: F-Droid
       href: https://f-droid.org/packages/de.kaffeemitkoffein.tinyweatherforecastgermany/
+  theme: dark
   metaTags:
     - name: "color-scheme"
       content: "dark light"
