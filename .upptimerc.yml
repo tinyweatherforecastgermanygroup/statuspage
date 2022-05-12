@@ -6,6 +6,8 @@ sites:
     url: https://codeberg.org
   - name: DWD Open Data Server
     url: https://opendata.dwd.de
+  - name: DWD Geoserver
+    url: https://maps.dwd.de
 
 status-website:
   baseUrl: /statuspage
