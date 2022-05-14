@@ -58,19 +58,19 @@
     "url": "https://f-droid.org/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 3976,
-    "timeDay": 6465,
-    "timeWeek": 3976,
-    "timeMonth": 3976,
-    "timeYear": 3976,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 3569,
+    "timeDay": 5028,
+    "timeWeek": 3569,
+    "timeMonth": 3569,
+    "timeYear": 3569,
     "dailyMinutesDown": {
-      "2022-05-14": 24
+      "2022-05-14": 38
     }
   },
   {
