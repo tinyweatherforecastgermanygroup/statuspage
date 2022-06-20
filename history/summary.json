@@ -40,19 +40,19 @@
     "url": "https://maps.dwd.de",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/dwd-icon.ico",
     "slug": "dwd-geoserver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 3114,
-    "timeWeek": 1639,
-    "timeMonth": 1349,
-    "timeYear": 1387,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 1376,
+    "timeDay": 2354,
+    "timeWeek": 1550,
+    "timeMonth": 1335,
+    "timeYear": 1376,
     "dailyMinutesDown": {
-      "2022-06-20": 0
+      "2022-06-20": 34
     }
   },
   {
