@@ -106,19 +106,19 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/index/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.90%",
-    "time": 556,
-    "timeDay": 449,
-    "timeWeek": 500,
-    "timeMonth": 493,
-    "timeYear": 556,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.89%",
+    "time": 554,
+    "timeDay": 432,
+    "timeWeek": 489,
+    "timeMonth": 490,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-07-02": 73
+      "2022-07-02": 80
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "javadoc-git-lab-pages",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.89%",
     "time": 273,
-    "timeDay": 339,
-    "timeWeek": 281,
-    "timeMonth": 280,
+    "timeDay": 304,
+    "timeWeek": 276,
+    "timeMonth": 279,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-07-02": 72
+      "2022-07-02": 78
     }
   },
   {
