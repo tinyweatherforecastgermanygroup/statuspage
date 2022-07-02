@@ -61,11 +61,11 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
     "status": "up",
-    "uptime": "95.33%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "94.45%",
-    "uptimeYear": "95.33%",
+    "uptimeYear": "95.35%",
     "time": 4440,
     "timeDay": 915,
     "timeWeek": 1960,
@@ -106,9 +106,9 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/index/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,16 +117,18 @@
     "timeWeek": 496,
     "timeMonth": 492,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "javadoc - GitLab Pages",
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "javadoc-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +137,9 @@
     "timeWeek": 261,
     "timeMonth": 276,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "summary webpage - frama.io",
@@ -146,12 +150,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 882,
     "timeDay": 587,
     "timeWeek": 819,
-    "timeMonth": 876,
+    "timeMonth": 797,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2022-06-21": 25,
