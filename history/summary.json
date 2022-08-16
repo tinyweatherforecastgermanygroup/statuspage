@@ -4,9 +4,9 @@
     "url": "https://codeberg.org",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 689,
     "timeMonth": 649,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "DWD Open Data Server",
@@ -62,11 +64,11 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.44%",
     "time": 3891,
     "timeDay": 1062,
     "timeWeek": 948,
