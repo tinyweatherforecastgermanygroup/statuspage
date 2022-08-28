@@ -4,9 +4,9 @@
     "url": "https://codeberg.org",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 664,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-08-16": 75
     }
   },
@@ -51,7 +52,7 @@
     "time": 1461,
     "timeDay": 784,
     "timeWeek": 3221,
-    "timeMonth": 2216,
+    "timeMonth": 1664,
     "timeYear": 1461,
     "dailyMinutesDown": {
       "2022-08-22": 23,
@@ -65,11 +66,11 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.73%",
     "time": 3740,
     "timeDay": 796,
     "timeWeek": 790,
