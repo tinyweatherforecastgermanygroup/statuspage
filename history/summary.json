@@ -4,18 +4,19 @@
     "url": "https://codeberg.org",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "77.73%",
-    "uptimeWeek": "96.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.84%",
-    "time": 733,
-    "timeDay": 705,
-    "timeWeek": 1152,
-    "timeMonth": 843,
-    "timeYear": 743,
+    "time": 739,
+    "timeDay": 3475,
+    "timeWeek": 3475,
+    "timeMonth": 1063,
+    "timeYear": 745,
     "dailyMinutesDown": {
+      "2023-07-05": 0,
       "2023-06-19": 320,
       "2023-06-06": 17,
       "2023-05-07": 67,
@@ -45,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 901,
-    "timeDay": 1011,
-    "timeWeek": 909,
-    "timeMonth": 1034,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 865,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-01-25": 73
@@ -59,16 +60,16 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/dwd-icon.ico",
     "slug": "dwd-geoserver",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1417,
-    "timeDay": 760,
-    "timeWeek": 1143,
-    "timeMonth": 1070,
-    "timeYear": 1428,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 1031,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2023-03-27": 57,
       "2023-03-26": 1219,
@@ -81,8 +82,7 @@
       "2022-10-11": 388,
       "2022-10-10": 220,
       "2022-08-22": 23,
-      "2022-07-27": 55,
-      "2022-06-20": 52
+      "2022-07-27": 55
     }
   },
   {
@@ -91,16 +91,16 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1958,
-    "timeDay": 717,
-    "timeWeek": 943,
-    "timeMonth": 907,
-    "timeYear": 1419,
+    "uptimeYear": "99.92%",
+    "time": 1679,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 861,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2022-11-17": 220,
@@ -109,11 +109,7 @@
       "2022-08-04": 15,
       "2022-08-01": 22,
       "2022-07-20": 33,
-      "2022-07-08": 35,
-      "2022-07-04": 43,
-      "2022-06-28": 15,
-      "2022-06-23": 73,
-      "2022-06-21": 45
+      "2022-07-08": 35
     }
   },
   {
@@ -126,16 +122,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 581,
-    "timeDay": 392,
-    "timeWeek": 574,
-    "timeMonth": 597,
-    "timeYear": 582,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 543,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2022-09-03": 88,
-      "2022-07-14": 266,
-      "2022-07-02": 73
+      "2022-07-14": 266
     }
   },
   {
@@ -148,16 +143,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 279,
-    "timeDay": 167,
-    "timeWeek": 198,
-    "timeMonth": 216,
-    "timeYear": 280,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 203,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-09-03": 88,
-      "2022-07-14": 30,
-      "2022-07-02": 72
+      "2022-07-14": 30
     }
   },
   {
@@ -166,16 +160,16 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "summary-webpage-frama-io",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 801,
-    "timeDay": 633,
-    "timeWeek": 767,
-    "timeMonth": 749,
-    "timeYear": 793,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 694,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2023-05-05": 38,
       "2023-05-01": 37,
@@ -193,8 +187,7 @@
       "2022-09-23": 44,
       "2022-08-10": 16,
       "2022-07-20": 20,
-      "2022-07-19": 22,
-      "2022-06-21": 25
+      "2022-07-19": 22
     }
   },
   {
@@ -209,10 +202,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 56,
-    "timeWeek": 102,
-    "timeMonth": 97,
-    "timeYear": 108,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 86,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   }
 ]
