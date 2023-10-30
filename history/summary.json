@@ -113,10 +113,10 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/index/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
@@ -125,6 +125,7 @@
     "timeMonth": 618,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2023-10-30": 1,
       "2023-08-27": 20
     }
   },
@@ -133,9 +134,9 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "javadoc-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +146,7 @@
     "timeMonth": 213,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-08-27": 20
     }
   },
@@ -160,8 +162,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.47%",
     "time": 794,
-    "timeDay": 858,
-    "timeWeek": 676,
+    "timeDay": 735,
+    "timeWeek": 727,
     "timeMonth": 750,
     "timeYear": 785,
     "dailyMinutesDown": {
