@@ -113,9 +113,9 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/index/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,7 @@
     "timeMonth": 599,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2024-01-11": 0,
       "2023-08-27": 20
     }
   },
@@ -155,13 +156,13 @@
     "slug": "summary-webpage-frama-io",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.49%",
     "time": 782,
-    "timeDay": 782,
-    "timeWeek": 789,
+    "timeDay": 607,
+    "timeWeek": 800,
     "timeMonth": 760,
     "timeYear": 773,
     "dailyMinutesDown": {
