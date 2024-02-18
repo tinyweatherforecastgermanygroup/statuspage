@@ -1,7 +1,7 @@
 url: https://codeberg.org
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2024-02-18T23:15:35.745Z
+status: down
+code: 502
+responseTime: 3478
+lastUpdated: 2024-02-18T23:45:07.070Z
 startTime: 2022-05-12T18:53:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
