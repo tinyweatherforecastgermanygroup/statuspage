@@ -96,18 +96,20 @@
     "url": "https://f-droid.org/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/f-droid-icon.svg",
     "slug": "f-droid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 943,
-    "timeDay": 791,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 947,
-    "dailyMinutesDown": {}
+    "timeDay": 746,
+    "timeWeek": 886,
+    "timeMonth": 906,
+    "timeYear": 946,
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "index - GitLab Pages",
