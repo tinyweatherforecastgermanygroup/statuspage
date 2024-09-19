@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.80%",
-    "time": 964,
-    "timeDay": 748,
-    "timeWeek": 1082,
-    "timeMonth": 1192,
-    "timeYear": 1027,
+    "time": 967,
+    "timeDay": 2208,
+    "timeWeek": 1100,
+    "timeMonth": 1244,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2024-08-20": 24,
       "2024-04-28": 44,
@@ -32,8 +32,7 @@
       "2023-11-12": 79,
       "2023-11-10": 21,
       "2023-10-14": 23,
-      "2023-10-12": 66,
-      "2023-09-20": 53
+      "2023-10-12": 66
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 579,
-    "timeWeek": 905,
+    "time": 948,
+    "timeDay": 1066,
+    "timeWeek": 960,
     "timeMonth": 891,
-    "timeYear": 904,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2024-08-28": 17
     }
@@ -68,10 +67,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 1396,
-    "timeDay": 658,
-    "timeWeek": 1184,
-    "timeMonth": 1269,
-    "timeYear": 1367,
+    "timeDay": 909,
+    "timeWeek": 1205,
+    "timeMonth": 1254,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2024-09-12": 41,
       "2024-08-28": 17,
@@ -97,9 +96,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 924,
-    "timeDay": 842,
-    "timeWeek": 946,
-    "timeMonth": 922,
+    "timeDay": 901,
+    "timeWeek": 957,
+    "timeMonth": 919,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2024-08-28": 16,
@@ -121,10 +120,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 618,
-    "timeDay": 663,
-    "timeWeek": 688,
+    "timeDay": 619,
+    "timeWeek": 678,
     "timeMonth": 643,
-    "timeYear": 615,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2024-08-25": 71
     }
@@ -141,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 186,
-    "timeWeek": 208,
-    "timeMonth": 221,
+    "timeDay": 200,
+    "timeWeek": 205,
+    "timeMonth": 222,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -155,14 +154,14 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
     "time": 800,
-    "timeDay": 679,
-    "timeWeek": 758,
-    "timeMonth": 801,
-    "timeYear": 815,
+    "timeDay": 772,
+    "timeWeek": 763,
+    "timeMonth": 800,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-09-14": 19,
       "2024-09-11": 21,
@@ -210,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 80,
-    "timeWeek": 96,
-    "timeMonth": 113,
-    "timeYear": 90,
+    "timeDay": 214,
+    "timeWeek": 118,
+    "timeMonth": 117,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   }
 ]
