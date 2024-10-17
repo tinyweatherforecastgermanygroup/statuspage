@@ -4,9 +4,9 @@
     "url": "https://codeberg.org",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 2040,
     "timeYear": 1143,
     "dailyMinutesDown": {
+      "2024-10-17": 0,
       "2024-10-09": 37,
       "2024-09-29": 27,
       "2024-09-26": 192,
@@ -160,7 +161,7 @@
     "uptimeYear": "99.80%",
     "time": 802,
     "timeDay": 1053,
-    "timeWeek": 750,
+    "timeWeek": 777,
     "timeMonth": 763,
     "timeYear": 809,
     "dailyMinutesDown": {
