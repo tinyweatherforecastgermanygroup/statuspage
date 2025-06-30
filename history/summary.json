@@ -48,18 +48,19 @@
     "url": "https://opendata.dwd.de",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/dwd-icon.ico",
     "slug": "dwd-open-data-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1066,
+    "time": 1067,
     "timeDay": 1647,
     "timeWeek": 953,
     "timeMonth": 1005,
     "timeYear": 1188,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2024-08-28": 17
     }
   },
