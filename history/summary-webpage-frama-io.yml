@@ -1,7 +1,7 @@
 url: https://tinyweatherforecastgermanygroup.frama.io/
-status: down
-code: 502
-responseTime: 569
-lastUpdated: 2025-07-04T23:22:34.234Z
+status: up
+code: 200
+responseTime: 672
+lastUpdated: 2025-07-04T23:43:34.765Z
 startTime: 2022-05-12T19:20:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
