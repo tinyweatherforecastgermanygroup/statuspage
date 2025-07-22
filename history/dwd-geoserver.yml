@@ -1,7 +1,7 @@
 url: https://maps.dwd.de
-status: up
-code: 200
-responseTime: 925
-lastUpdated: 2025-07-21T23:25:25.188Z
+status: down
+code: 503
+responseTime: 1673
+lastUpdated: 2025-07-22T09:31:12.702Z
 startTime: 2022-05-12T18:57:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
