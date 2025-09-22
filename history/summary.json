@@ -224,19 +224,19 @@
     "url": "https://twfgcicdbot.github.io/TinyWeatherForecastGermanyScan/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "tiny-weather-forecast-germany-scan-git-hub-pages",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 111,
-    "timeWeek": 141,
-    "timeMonth": 145,
+    "timeDay": 140,
+    "timeWeek": 145,
+    "timeMonth": 146,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 7
     }
   }
 ]
