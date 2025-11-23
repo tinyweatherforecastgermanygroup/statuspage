@@ -1,7 +1,7 @@
 url: https://opendata.dwd.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-23T21:36:41.483Z
+status: up
+code: 200
+responseTime: 709
+lastUpdated: 2025-11-23T21:42:56.654Z
 startTime: 2022-05-12T18:53:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
