@@ -6,12 +6,12 @@
     "slug": "codeberg",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "92.09%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.64%",
     "time": 1442,
-    "timeDay": 1790,
+    "timeDay": 1346,
     "timeWeek": 2572,
     "timeMonth": 2097,
     "timeYear": 1276,
@@ -54,9 +54,9 @@
     "slug": "dwd-open-data-server",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 1059,
     "timeDay": 1108,
@@ -64,7 +64,6 @@
     "timeMonth": 917,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2026-01-18": 6,
       "2026-01-13": 24,
       "2025-11-26": 19,
       "2025-08-26": 37,
@@ -117,8 +116,7 @@
       "2025-06-24": 59,
       "2025-05-23": 79,
       "2025-04-15": 36,
-      "2025-04-14": 43,
-      "2025-01-19": 15
+      "2025-04-14": 43
     }
   },
   {
