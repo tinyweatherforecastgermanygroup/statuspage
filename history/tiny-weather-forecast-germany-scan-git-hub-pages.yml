@@ -1,7 +1,7 @@
 url: https://twfgcicdbot.github.io/TinyWeatherForecastGermanyScan/
-status: down
-code: 503
-responseTime: 171
-lastUpdated: 2026-04-13T19:55:18.771Z
+status: up
+code: 200
+responseTime: 146
+lastUpdated: 2026-04-13T20:41:17.373Z
 startTime: 2022-05-12T19:20:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
