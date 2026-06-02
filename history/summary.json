@@ -224,17 +224,17 @@
     "url": "https://tinyweatherforecastgermanygroup.frama.io/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "summary-webpage-frama-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.70%",
-    "time": 830,
-    "timeDay": 1086,
-    "timeWeek": 846,
-    "timeMonth": 849,
-    "timeYear": 841,
+    "time": 829,
+    "timeDay": 729,
+    "timeWeek": 799,
+    "timeMonth": 835,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2025-06-26": 20,
       "2025-07-04": 44,
@@ -259,7 +259,8 @@
       "2025-11-14": 316,
       "2026-02-11": 168,
       "2026-02-18": 42,
-      "2026-05-30": 60
+      "2026-05-30": 60,
+      "2026-06-02": 0
     }
   },
   {
