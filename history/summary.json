@@ -226,9 +226,9 @@
     "slug": "summary-webpage-frama-io",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.68%",
     "time": 829,
     "timeDay": 669,
@@ -260,8 +260,7 @@
       "2026-02-11": 168,
       "2026-02-18": 42,
       "2026-05-30": 60,
-      "2026-06-02": 106,
-      "2026-06-03": 3
+      "2026-06-02": 106
     }
   },
   {
