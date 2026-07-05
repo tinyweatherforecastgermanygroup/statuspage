@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.15%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.50%",
     "time": 1083,
@@ -111,7 +111,7 @@
     "timeDay": 2862,
     "timeWeek": 1846,
     "timeMonth": 1817,
-    "timeYear": 1880,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-07-09": 233,
       "2025-07-08": 4,
@@ -176,17 +176,17 @@
     "url": "https://tinyweatherforecastgermanygroup.gitlab.io/index/",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "76.05%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "14.71%",
     "uptimeMonth": "80.37%",
     "uptimeYear": "98.09%",
     "time": 625,
-    "timeDay": 641,
-    "timeWeek": 326,
-    "timeMonth": 441,
-    "timeYear": 603,
+    "timeDay": 517,
+    "timeWeek": 315,
+    "timeMonth": 435,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2026-01-04": 334,
       "2026-01-03": 1119,
@@ -196,7 +196,8 @@
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
-      "2026-06-28": 947
+      "2026-06-28": 947,
+      "2026-07-05": 0
     }
   },
   {
