@@ -4,17 +4,17 @@
     "url": "https://codeberg.org",
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/codeberg-icon.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.45%",
-    "uptimeMonth": "98.09%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.34%",
     "time": 1069,
-    "timeDay": 603,
-    "timeWeek": 646,
-    "timeMonth": 745,
-    "timeYear": 1101,
+    "timeDay": 545,
+    "timeWeek": 632,
+    "timeMonth": 739,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-09-03": 79,
       "2025-09-09": 106,
@@ -53,7 +53,8 @@
       "2026-07-22": 90,
       "2026-07-26": 188,
       "2026-07-27": 204,
-      "2026-07-29": 66
+      "2026-07-29": 66,
+      "2026-07-31": 0
     }
   },
   {
@@ -71,7 +72,7 @@
     "timeDay": 694,
     "timeWeek": 937,
     "timeMonth": 803,
-    "timeYear": 882,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2025-08-12": 23,
       "2025-08-26": 37,
@@ -183,7 +184,7 @@
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.53%",
+    "uptimeMonth": "67.71%",
     "uptimeYear": "96.46%",
     "time": 617,
     "timeDay": 460,
