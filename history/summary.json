@@ -13,8 +13,8 @@
     "time": 1092,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 923,
-    "timeYear": 1140,
+    "timeMonth": 995,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2025-10-25": 31,
       "2025-11-06": 97,
@@ -72,8 +72,8 @@
     "time": 892,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1281,
-    "timeYear": 887,
+    "timeMonth": 1634,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2025-11-26": 19,
       "2026-01-13": 24,
@@ -117,10 +117,9 @@
     "time": 1897,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2822,
-    "timeYear": 2017,
+    "timeMonth": 3756,
+    "timeYear": 2020,
     "dailyMinutesDown": {
-      "2025-09-15": 17,
       "2025-09-24": 17,
       "2025-10-05": 719,
       "2025-10-04": 92,
@@ -163,8 +162,8 @@
     "time": 735,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 882,
-    "timeYear": 735,
+    "timeMonth": 852,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2026-01-11": 30,
       "2026-04-11": 31,
@@ -177,15 +176,15 @@
     "icon": "https://raw.githubusercontent.com/tinyweatherforecastgermanygroup/statuspage/master/assets/twfg-icon.png",
     "slug": "index-git-lab-pages",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.27%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "93.74%",
     "time": 610,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 723,
+    "timeMonth": 933,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2026-01-04": 334,
@@ -231,8 +230,8 @@
     "time": 231,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 357,
-    "timeYear": 223,
+    "timeMonth": 390,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -249,7 +248,7 @@
     "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 741,
+    "timeMonth": 719,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-09-16": 29,
@@ -280,8 +279,8 @@
     "time": 149,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 329,
-    "timeYear": 154,
+    "timeMonth": 158,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2026-04-13": 46
     }
