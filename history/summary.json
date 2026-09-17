@@ -118,7 +118,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1995,
+    "timeYear": 1997,
     "dailyMinutesDown": {
       "2025-09-24": 17,
       "2025-10-05": 719,
@@ -185,7 +185,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2026-01-04": 334,
       "2026-01-03": 1119,
@@ -243,12 +243,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 614,
+    "timeMonth": 0,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-10-27": 90,
