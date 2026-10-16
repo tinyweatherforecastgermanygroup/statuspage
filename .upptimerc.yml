@@ -1,5 +1,6 @@
 owner: tinyweatherforecastgermanygroup
 repo: statuspage
+user-agent: $OWNER
 
 sites:
   - name: Codeberg
